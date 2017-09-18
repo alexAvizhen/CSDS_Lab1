@@ -1,0 +1,12 @@
+Text length: 6384
+Key word length(Original): 13
+Key word length(Program):
+1 - 6149104
+13 - 2371412
+2 - 1567030
+26 - 656033
+3 - 640388
+Key word(original): CRYPTANALYSIS
+Key word(program): CCCAEANAGRSIS
+Common chars: 0.5384615384615384
+
